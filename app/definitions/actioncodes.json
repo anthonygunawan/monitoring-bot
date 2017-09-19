@@ -1,0 +1,29 @@
+{
+  "0": {
+    "definition": "Online"
+  },
+  "1": {
+    "definition": "Out of Service"
+  },
+  "2": {
+    "definition": "Cash Out"
+  },
+  "3": {
+    "definition": "Cash Low on Hopper 1"
+  },
+  "4": {
+    "definition": "Cash Low on Hopper 2"
+  },
+  "5": {
+    "definition": "Cash Low on Hopper 3"
+  },
+  "6": {
+    "definition": "Cash Low on Hopper 4"
+  },
+  "7": {
+    "definition": "Network Down"
+  },
+  "8": {
+    "definition": "Vandalism"
+  }
+}

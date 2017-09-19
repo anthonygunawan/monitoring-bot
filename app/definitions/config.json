@@ -1,0 +1,5 @@
+{
+  "botkey": "368105807:AAH8l9-okcxIIe4OF5C9IGHR80THIu0MneU",
+  "mongoBaseURL": "mongodb://localhost/bcaatmbot",
+  "proxy": "http://kpproxy:8080"
+}

@@ -1,0 +1,42 @@
+{
+  "start": {
+    "command": "/start",
+    "description": "Command untuk memulai percakapan dengan Bot.",
+    "detail": ""
+  },
+  "register": {
+    "command": "/register",
+    "description": "Registrasi sebagai pengguna aktif ke sistem.",
+    "detail": ""
+  },
+  "registration_list": {
+    "command": "/registrationlist",
+    "description": "Menampilkan list user yang melakukan registrasi namun belum diapprove oleh admin. Hanya admin yang berhak melihat list pendaftaran.",
+    "detail": ""
+  },
+  "approve_user": {
+    "command": "/approve [ChatID]",
+    "description": "Menyetujui pendaftaran user, hanya admin yang berhak melakukan approve",
+    "detail": ""
+  },
+  "search_user": {
+    "command": "search user [ChatID]",
+    "description": "Mencari user sesuai ChatID",
+    "detail": ""
+  },
+  "add_admin": {
+    "command": "grant admin [ChatID]",
+    "description": "Memberi role Super Admin",
+    "detail": ""
+  },
+  "my_stations": {
+    "command": "my stations [query]",
+    "description": "Mencari station milik anda yang sesuai dengan query",
+    "detail": "Query yang berlaku : name, type, address, status"
+  },
+  "my_incidents": {
+    "command": "my incidents",
+    "description": "Melihat incidents yang belum closed dan ter-assign pada anda",
+    "detail": "testing!"
+  }
+}

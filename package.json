@@ -1,0 +1,20 @@
+{
+  "name": "bcaatmbot",
+  "version": "1.0.0",
+  "description": "bca telegram atm bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GUN - Anthony Gunawan",
+  "license": "ISC",
+  "dependencies": {
+    "js-logger": "^1.4.1",
+    "logger": "0.0.1",
+    "micromatch": "^3.1.0",
+    "moment": "^2.18.1",
+    "mongoose": "latest",
+    "node-telegram-bot-api": "^0.28.0",
+    "object-resolve-path": "^1.1.1"
+  }
+}
